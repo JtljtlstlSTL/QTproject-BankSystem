@@ -79,5 +79,6 @@ For more detailed information,please refer to the experimentareport.[click here]
 - Make sure the project uses **Qt Widgets** module.  
 - Test the application after building to ensure all GUI components work correctly.  
 - Compatible with Qt 5.12.10; may need adjustments for newer versions.
+- The data in this code is stored in txt format, and the data inventory I wrote with SQL will report an error www, so you can use SQL.
 
 ---
