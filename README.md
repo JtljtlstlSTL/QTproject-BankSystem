@@ -43,9 +43,9 @@ For more detailed information,please refer to the experimentareport.[click here]
 
 ---
 
-## 📷 Example Screenshots
+## 📷 Example Screenshots and Vedeo
 
-**Main Window:**
+##Main Window:
 ![Main Window](sample images/main.png "Bank System Main Window")
 
 **Log-in Dialog:**
