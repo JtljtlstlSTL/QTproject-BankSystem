@@ -45,17 +45,17 @@ For more detailed information,please refer to the experimentareport.[click here]
 
 ## 📷 Example Screenshots and Vedeo
 
-##Main Window:
-![Main Window](sample images/main.png "Bank System Main Window")
+**Main Window:**
+![Main Window](sample_images/main.png "Bank System Main Window")
 
 **Log-in Dialog:**
-![Login Account](sample images/login.png "Log in or Sign up Account")
+![Login Account](sample_images/login.png "Log in or Sign up Account")
 
 **Function Window:**
-![Function Window](sample imagess/function.png "All the function of offline")
+![Function Window](sample_imagess/function.png "All the function of offline")
 
 **Transaction Window:**
-![Transactions Table](sample imagess/table.png "Deposit and Withdraw Money")
+![Transactions Table](sample_imagess/table.png "Deposit and Withdraw Money")
 
 **Video showcase:**
 [Watch Video on Bilibili](https://www.bilibili.com/video/BV1xttPeEESu/)
