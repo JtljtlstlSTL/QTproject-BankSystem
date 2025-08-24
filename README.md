@@ -52,10 +52,10 @@ For more detailed information,please refer to the experimentareport.[click here]
 ![Login Account](sample_images/login.png "Log in or Sign up Account")
 
 **Function Window:**
-![Function Window](sample_imagess/function.png "All the function of offline")
+![Function Window](sample_images/function.png "All the function of offline")
 
 **Transaction Window:**
-![Transactions Table](sample_imagess/table.png "Deposit and Withdraw Money")
+![Transactions Table](sample_images/table.png "Deposit and Withdraw Money")
 
 **Video showcase:**
 [Watch Video on Bilibili](https://www.bilibili.com/video/BV1xttPeEESu/)
