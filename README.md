@@ -31,7 +31,7 @@ Before running the project, ensure you have Qt 5.12.10 installed.
    - Dialog windows for each operation
    - Responsive buttons and forms
 
-For more detailed information,please refer to the experimentareport.[here](实验报告-也可理解为相关变量函数解释.pdf)
+For more detailed information,please refer to the experimentareport.[click here](实验报告-也可理解为相关变量函数解释.pdf)
 ---
 
 ## 🛠️ How to Run
@@ -46,14 +46,21 @@ For more detailed information,please refer to the experimentareport.[here](实�
 ## 📷 Example Screenshots
 
 **Main Window:**
-![Main Window](images/main_window.png "Bank System Main Window")
+![Main Window](sample-images/main.png "Bank System Main Window")
 
-**Create Account Dialog:**
-![Create Account](images/create_account.png "Create New Account")
+**Log-in Dialog:**
+![Login Account](sample-images/login.png "Log in or Sign up Account")
+
+**Function Window:**
+![Function Window](sample-imagess/function.png "All the function of offline")
 
 **Transaction Window:**
-![Transactions](images/transactions.png "Deposit and Withdraw Money")
+![Transactions Table](sample-imagess/table.png "Deposit and Withdraw Money")
 
+**Video showcase:**
+![Watch Video on Bilibili](https://www.bilibili.com/video/BV1xttPeEESu/)
+
+>To reference the absolute path I used for the image in the code, you can directly use the relative path as follows
 > Place the images in a folder named `pic` inside your project directory.  
 > For example:
 >
