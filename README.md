@@ -31,7 +31,7 @@ Before running the project, ensure you have Qt 5.12.10 installed.
    - Dialog windows for each operation
    - Responsive buttons and forms
 
-For more detailed information,please refer to the experimentareport.[here](../UserManual.pdf)
+For more detailed information,please refer to the experimentareport.[here](../实验报告-也可理解为相关变量函数解释.pdf)
 ---
 
 ## 🛠️ How to Run
